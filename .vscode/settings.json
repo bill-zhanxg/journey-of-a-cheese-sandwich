@@ -1,0 +1,10 @@
+{
+    "css.lint.unknownAtRules": "ignore",
+    "cSpell.words": [
+        "astley",
+        "drei",
+        "Lifecycles",
+        "Particales",
+        "tsparticles"
+    ]
+}
